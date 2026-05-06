@@ -5,7 +5,8 @@ import {
 } from "recharts";
 
 const API = "http://localhost:8080";
-const CORS = "https://corsproxy.io/?";
+const CORS = "https://api.allorigins.win/raw?url=";
+
 
 async function fetchYahooData(ticker) {
   const url = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1d&range=6mo`;
