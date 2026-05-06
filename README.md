@@ -66,3 +66,9 @@ npm run dev
 Disclaimer
 
 Built as a learning project during exam prep. Not financial advice.
+
+## Note on the Evolution feature
+The genetic algorithm requires the OCaml backend running locally.
+The live demo at stock-evolver.vercel.app shows all features except
+the "Run Evolution" button — clone the repo and run the backend to
+enable it.
