@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (libraries stock_evolver dream)
+ (preprocess (pps lwt_ppx)))

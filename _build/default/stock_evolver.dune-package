@@ -1,0 +1,4 @@
+(lang dune 3.21)
+(name stock_evolver)
+(sections (lib .))
+(files (lib (META dune-package opam)))
