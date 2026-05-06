@@ -48,14 +48,20 @@ Running locally
 Backend:
 
 opam install dream
+
 dune build
+
 dune exec bin/main.exe
+
 # runs at http://localhost:8080
 Frontend:
 
 cd frontend
+
 npm install
+
 npm run dev
+
 # runs at http://localhost:5173
 Disclaimer
 
