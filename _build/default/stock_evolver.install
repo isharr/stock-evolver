@@ -1,5 +1,0 @@
-lib: [
-  "_build/install/default/lib/stock_evolver/META"
-  "_build/install/default/lib/stock_evolver/dune-package"
-  "_build/install/default/lib/stock_evolver/opam"
-]
