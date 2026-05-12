@@ -20,7 +20,7 @@ import { computeComparables }    from "./comparable";
 import { computeSafetyScore }    from "./safetyS";
 
 import PriceHeader       from "./components/PriceHeader";
-import SafetyScore       from "./components/Safetyscore";
+import SafetyScore       from "./components/SafetyScoree";
 import PriceChart        from "./components/PriceChart";
 import TechnicalAnalysis from "./components/TechnicalAnalysis";
 import DCFValuation      from "./components/DCFValuation";
