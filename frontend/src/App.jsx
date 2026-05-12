@@ -14,10 +14,10 @@
 
 import { useState } from "react";
 import { fetchPriceData, fetchFundamentals, buildCsv } from "./api";
-import { computeRecommendation } from "./indicators";
-import { computeDCF }            from "./dcf";
-import { computeComparables }    from "./comparables";
-import { computeSafetyScore }    from "./safetyscore";
+import { computeRecommendation } from "./indicate";
+import { computeDCF }            from "./ Dcfs";
+import { computeComparables }    from "./comparable";
+import { computeSafetyScore }    from "./safetyS";
 
 import PriceHeader       from "./components/PriceHeader";
 import SafetyScore       from "./components/Safetyscore";
