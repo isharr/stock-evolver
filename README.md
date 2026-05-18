@@ -1,9 +1,9 @@
 StockEvolver
 ## Preview
 
-![StockEvolver Dashboard](./screenshots/StockEvlover1.png)
+![StockEvolver Dashboard](./screenshots/StockEvolver1.png)
 
-![StockEvolver Analysis](./screenshots/StockEvlover2.png)
+![StockEvolver Analysis](./screenshots/StockEvolver2.png)
 
 A full-stack stock analysis app built with OCaml + Dream on the backend and React on the frontend.
 
